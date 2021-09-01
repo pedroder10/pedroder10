@@ -1,0 +1,4 @@
+- 👋 Oi! Eu sou Pedro Dourado
+- 👀 Eu tenho interesse em RubyonRails 
+- 🌱 Estou estudando JavaScript e HTML
+- ✨ tenho interesse em Back-End e Front-End
